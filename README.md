@@ -6,7 +6,7 @@
 
 - **Course Name:** Deep Learning  
 - **Lab Title:** NLP Techniques for Text Classification  
-- **Student Name: Ayush Bhalerao  
+-  Student Name: Ayush Bhalerao  
 
 ---
 
